@@ -245,4 +245,4 @@ This repository serves as the official landing page for Overlord II. The softwar
 **Download the most recent version of Overlord II today!**
 
 ---
-**Last updated:** 2026-09-20 22:54:20 UTC
+**Last updated:** 2026-09-21 00:47:23 UTC
